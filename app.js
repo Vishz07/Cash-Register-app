@@ -1,5 +1,5 @@
 const billAmount = document.querySelector("#bill-Amount")
-const cashGiven = document.getElementById("cash-Given");
+const cashGiven = document.getElementById("Cash-Given");
 const btn = document.getElementById("btn");
 const errorMessage = document.getElementById("error-Message")
 const noOfNotes = document.querySelectorAll(".no-of-notes")
